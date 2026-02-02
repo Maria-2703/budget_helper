@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Budgeting App</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        h1 { color: #333; }
+        table { border-collapse: collapse; margin-top: 20px; width: 100%; }
+        table, th, td { border: 1px solid #999; }
+        th, td { padding: 8px; text-align: left; }
+        th { background-color: #eee; }
+        .upload-form { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Budgeting App</h1>
+
+    <form class="upload-form" method="POST" enctype="multipart/form-data">
+        <label for="file">Upload your bank CSV:</label>
+        <input type="file" name="file" id="file" accept=".csv" required>
+        <button type="submit">Upload & Classify</button>
+    </form>
+
+    {% if table %}
+        <h2>Categorized Transactions</h2>
+        {{ table | safe }}
+    {% endif %}
+</body>
+</html>
