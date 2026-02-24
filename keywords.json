@@ -1,0 +1,27 @@
+{
+    "Groceries": ["Hipercor","Aldi", "Lidl", "Mercadona", "Consum", "Carrefour", "Eroski", "Market", "Supermercado", "Supermarket", "Charter", "Veritas", "Coaliment", "PrimaPrix", "Dia", "Suma", "Alcampo", "Spar", "Bonpreu", "Makro"],
+    
+    "Shopping": ["Zara", "Bershka", "Massimo Dutti", "Stradivarious", "Pull&Bear", "Oysho", "Mango", "Cortefiel", "Springfield", "Secret", "Pedro del Hierro", "Desigual", "Pepe Jeans", "Tous", "Tommy Hilfiger", "Punt Roma", "Hollister", "C&A", "Primark", "Nike", "Adidas", "Decathlon", "Foot Locker", "Sephora", "Douglas", "El Corte Ingles", "Amazon", "Shop", "Boutique"],
+    
+    "Technology": ["Apple Store", "Samsung", "MediaMarkt", "Fnac", "PcComponentes", "GameStop", "Microsoft", "Amazon Kindle", "Xiaomi", "Huawei", "Lenovo", "Asus", "Dell", "HP", "Sony", "LG", "BEEP", "Apple Music", "Google Store"],
+    
+    "Bills": ["Electricity", "Water", "Gas", "Internet", "Vodafone", "Movistar", "Orange", "Yoigo", "Jazztel", "Iberdrola", "Endesa", "Naturgy", "Insurance", "Seguros", "AXA", "Mapfre", "Credit Card", "Visa", "Mastercard", "Santander", "BBVA", "CaixaBank", "Bank Fees", "Mortgage"],
+    
+    "Rent": ["Rent", "Alquiler", "Airbnb", "Lease", "Landlord"],
+    
+    "Eating Out": ["Starbucks", "McDonald", "Burger King", "KFC", "Pizza Hut", "Domino's", "Telepizza", "Subway", "Restaurante", "Bar", "Cafe", "Food Delivery", "Uber Eats", "Glovo", "Deliveroo", "Just Eat", "Rappi", "Dunkin Donuts", "La Tagliatella", "100 Montaditos", "Papa Johns"],
+    
+    "Entertainment": ["Cinema", "Cine", "Movie", "Concert", "Event", "Bowling", "Amusement Park", "Theatre", "Tickets", "Gaming", "Steam", "Epic Games", "PlayStation", "Xbox", "Nintendo", "Live Nation", "Ticketmaster", "Funidelia"],
+    
+    "Transportation": ["Uber", "Lyft", "Cabify", "Metro", "Bus", "Train", "Renfe", "TMB", "Taxi", "Gas Station", "Petrol", "Parking", "Tolls", "Car Rental", "BlaBlaCar", "Vueling", "Iberia", "Ryanair", "EasyJet", "Fuel", "Repsol", "Cepsa"],
+    
+    "Trips": ["Flight", "Hotel", "Booking.com", "Expedia", "Airbnb", "Travel Agency", "TripAdvisor", "Kayak", "Lastminute", "Holiday", "Vacation", "Iberia", "Vueling", "Ryanair", "EasyJet", "Rental Car", "Tourism", "Cruise", "Tour"],
+    
+    "Subscriptions": ["Netflix", "Spotify", "Apple", "Google", "Amazon Prime", "HBO Max", "Disney+", "Audible", "Canva", "Adobe", "Dropbox", "Notion", "Slack", "Microsoft 365", "Zoom", "Figma", "SaaS", "Membership", "Recurring Payment", "Gym", "Fit"],
+    
+    "Pets": ["Pet Food", "Veterinary", "Vet", "Pet Store", "Kiwoko", "Tiendanimal", "Animal Crossing", "Grooming", "Pet Supplies", "Dog", "Cat", "Vet Clinic", "Pet Shop"],
+    
+    "Income": ["Salary", "Payroll", "Deposit", "Transfer", "Reimbursement", "Bonus", "Interest", "Refund", "Paycheck", "Employer", "HR", "Dividend", "Investment"],
+    
+    "Others": ["Donation", "Charity", "Miscellaneous", "Cash", "ATM", "Other", "Unknown", "Uncategorized", "Transfers", "Refund", "Fee"]
+}
